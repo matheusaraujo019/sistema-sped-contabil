@@ -135,8 +135,9 @@ Durante o desenvolvimento deste sistema foram trabalhados conceitos como:
 
 # 👨‍💻 Autor
 
-Matheus Araujo
+Matheus Araujo da Silva
 
+- Site/Portifólio: https://matheus-araujo.net.br
 - GitHub: https://github.com/matheusaraujo019
 - LinkedIn: https://www.linkedin.com/in/matheus-araujo-da-silva-9a082b388/
 
