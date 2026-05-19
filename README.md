@@ -51,7 +51,7 @@ sistema-sped-contabil/
 ├── css/
 ├── js/
 ├── php/
-├── banco/
+├── bancos/
 │
 ├── index.php
 └── README.md
